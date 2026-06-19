@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=JANAI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=PIUS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
 
@@ -22,8 +22,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu">
-    <img src="https://komarev.com/ghpvc/?username=janaiegeonu&label=VISITORS&color=0d6efd&style=flat-square" />
+  <a href="https://github.com/piusjohn">
+    <img src="https://komarev.com/ghpvc/?username=piusjohn&label=VISITORS&color=0d6efd&style=flat-square" />
   </a>
 </p>
 
@@ -95,21 +95,21 @@ Currently focused on strengthening my expertise in:
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu?tab=repositories">
+  <a href="https://github.com/piusjohn?tab=repositories">
     <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu?tab=repositories">
+  <a href="https://github.com/piusjohn?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge"/>
   </a>
 </p>
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=janaiegeonu&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
+  <a href="https://github.com/piusjohn" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=piusjohn&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D" />
   </a>
 </p>
 
@@ -117,7 +117,7 @@ Currently focused on strengthening my expertise in:
 
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piusjohn&theme=github-dark"/>
 
 ## 📚 Currently Learning
 
@@ -133,11 +133,11 @@ Currently focused on strengthening my expertise in:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/janaiegeonu">
+  <a href="https://github.com/piusjohn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="mailto:egeonujanai@gmail.com">
+  <a href="mailto:pius622472@gmail.com">
     <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
