@@ -6,17 +6,25 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Back_end_development" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/Systems_programming" target="_blank">
-    <img src="https://img.shields.io/badge/Systems-0ea5e9?style=for-the-badge"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
+    <img src="https://img.shields.io/badge/AI-1f6feb?style=for-the-badge"/>
   </a>
 
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Go+Developer;Backend+Systems+Learner;Building+Scalable+Applications;CLI+%26+Systems+Programming;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+AI+Application+Developer;Go+%26+Python+Engineer;Building+AI-Powered+Cloud+Apps;AWS+%26+GCP+Practitioner;Always+Learning+New+Things" />
 </p>
 
 
@@ -31,28 +39,28 @@
 
 # 👋 About Me
 
-I'm a software developer passionate about building efficient, scalable, and maintainable software systems.
+I'm a Cloud AI Application Developer passionate about building intelligent, scalable, and production-ready applications on the cloud.
 
-My interests are centered around backend engineering, systems programming, command-line applications, and software architecture. I enjoy solving technical problems, exploring low-level concepts, and continuously improving the quality and performance of the applications I build.
+I work primarily with **Go** and **Python**, deploying AI-powered solutions on **AWS** and **GCP**. I enjoy solving complex technical problems, integrating AI into real-world applications, and designing cloud architectures that scale.
 
 Currently focused on strengthening my expertise in:
-- Backend development
-- Concurrent programming
-- System design fundamentals
-- Performance optimization
-- Clean architecture & maintainable code
+- Cloud AI application development (AWS & GCP)
+- Building and integrating AI/ML powered backends
+- Scalable microservices with Go and Python
+- Cloud-native architecture & infrastructure
+- Performance optimization & clean code
 - Modern application development
 
 ---
 
 ## 🚀 Current Focus
 
-- Building practical projects with Go
-- Exploring concurrency and parallel execution
-- Improving debugging and problem-solving skills
-- Learning scalable software design patterns
-- Writing cleaner and more optimized code
-- Developing professional-grade applications
+- Building AI-powered cloud applications with Go & Python
+- Deploying and managing services on AWS & GCP
+- Integrating LLMs and AI APIs into production systems
+- Improving cloud architecture and infrastructure skills
+- Writing cleaner, more optimized, and maintainable code
+- Developing professional-grade scalable applications
 
 ---
 
@@ -62,6 +70,18 @@ Currently focused on strengthening my expertise in:
 
 <a href="https://go.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=go" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gcp" />
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -85,18 +105,14 @@ Currently focused on strengthening my expertise in:
 </a>
 
 </p>
+
 ---
-
-
-
-## 🏆 Achievements & Milestones
-
 
 ## 🏆 Achievements
 
 <p align="center">
   <a href="https://github.com/piusjohn?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=janaiegeonu&theme=algolia&no-frame=true&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=piusjohn&theme=algolia&no-frame=true&column=6" />
   </a>
 </p>
 
@@ -105,6 +121,7 @@ Currently focused on strengthening my expertise in:
     <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge"/>
   </a>
 </p>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -121,11 +138,11 @@ Currently focused on strengthening my expertise in:
 
 ## 📚 Currently Learning
 
-- Concurrent system design
-- Backend architecture
-- Performance optimization in Go
+- Cloud AI application architecture
+- AWS & GCP services (Lambda, Cloud Run, Vertex AI, Bedrock)
+- LLM integration & AI API development
 - Advanced algorithms & data structures
-- Scalable application development
+- Scalable microservice design
 - Software engineering best practices
 
 ---
@@ -146,7 +163,7 @@ Currently focused on strengthening my expertise in:
 
 ## ⚡ Fun Fact
 
-I enjoy building systems from scratch, understanding how things work internally, and continuously pushing myself to become a better engineer every day.
+I enjoy building AI-powered cloud applications from scratch, understanding how things work at a deep level, and continuously pushing myself to become a better engineer every day.
 
 ---
 
