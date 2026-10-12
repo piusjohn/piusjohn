@@ -45,21 +45,21 @@ func main() {
 }
 ```
 
-- 🌱 Self-taught developer, started as an absolute beginner through project-based peer learning at **01-edu (learn2earn)**
+- 🌱 Self-taught developer who started as an absolute beginner through project-based peer learning at **01-edu (learn2earn)**, now on the **Talent Nation AI curriculum**
 - ☁️ Pursuing an entry-level **remote cloud/DevOps** role with US-based teams
 - 🧭 Following a self-directed **two-year roadmap** toward SDE-1 interview readiness
-- 🤖 Long-term: **AI & MLOps**, engineering at the level of the best teams in the industry
+- 🤖 Long-term: **AI & MLOps**, with the engineering depth of the best teams in the industry
 - 🛠️ I learn by building and replicating real-world architectures, not by collecting certificates
 
 ---
 
 ## 🧭 Currently Working On
 
-- 🔄 **Python**: going from comfortable-with-basics to real depth
+- 🔄 **Python**: a 3-month push from solid basics to real depth, in service of AI & MLOps
 - 🔄 **AWS / GCP**: building real-world architectures hands-on
-- 🔄 **Data structures & algorithms** for interview readiness
-- 🔄 **AI curriculum** (Talent Nation): Python-based AI engineering
-- 📅 **Next**: CI/CD pipelines, Docker, Terraform
+- 🔄 **Data structures & algorithms**: daily practice on [LeetCode](https://leetcode.com/u/PiusJohn/)
+- 🔄 **Databases**: relational design, keys and SQL
+- 📅 **Next**: Docker, CI/CD, Terraform
 
 ---
 
@@ -108,6 +108,26 @@ func main() {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">📚 Recode01</h3>
+      <p align="center">Neo-brutalist learning dashboard with Projects, Practice and History sections, powered by the Anthropic Messages API. Single-file vanilla JS.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Anthropic_API-00c853?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 ASCII Art Web</h3>
+      <p align="center">Go web app that renders ASCII art and serves it as a download with proper HTTP headers and temp-file handling.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/net/http-00c853?style=flat-square&logo=go&logoColor=white"/>
+      </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🧠 AI Chatbot</h3>
       <p align="center">Realtime chatbot using a cloud-hosted AI model. Replace with what it truly does today.</p>
       <p align="center">
@@ -136,6 +156,8 @@ func main() {
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -153,7 +175,7 @@ func main() {
 
 | Phase | Focus | Status |
 |:------|:------|:-------|
-| Foundations | Go, algorithms, networking, Linux administration | ✅ Done |
+| Foundations | Go, algorithms, networking (Packet Tracer), Linux server administration | ✅ Done |
 | Python & AI | Python depth, Talent Nation AI curriculum | 🔄 In progress |
 | Cloud | AWS & GCP architectures built hands-on | 🔄 In progress |
 | DevOps | Docker, CI/CD, Terraform, monitoring | 📅 Next |
