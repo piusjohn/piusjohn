@@ -1,19 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20AI%20Application%20Developer&descSize=20&descAlignY=58&descColor=a5f3a5"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c853&center=true&vCenter=true&random=false&width=850&lines=Cloud+AI+Application+Developer+%F0%9F%9A%80;Building+AI-Powered+Cloud+Applications+%F0%9F%A4%96;Go+%26+Python+Engineer+%7C+AWS+%26+GCP;Realtime+Chatbots+%7C+Image+Analysis+AI;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Application%20Developer&descSize=20&descAlignY=58&descColor=a5f3a5" width="100%" alt="Header"/>
 
-<p align="center">
-  <a href="https://github.com/piusjohn">
-    <img src="https://komarev.com/ghpvc/?username=piusjohn&label=PROFILE+VIEWS&color=00c853&style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/github/followers/piusjohn?label=Followers&style=flat-square&color=00c853"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=850&lines=Self-taught+developer+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Go+%26+Python+%7C+AWS+%26+GCP;Building+toward+Cloud%2FDevOps+%26+MLOps;Learning+in+public%2C+shipping+in+public+%F0%9F%94%A5" alt="Typing animation"/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-piusjohn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piusjohn)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Pius%20John-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pius-john-0630272a3/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PiusJohn-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/u/PiusJohn/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pius622472@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=piusjohn&label=PROFILE+VIEWS&color=00c853&style=flat-square" alt="Views"/>
+<img src="https://img.shields.io/github/followers/piusjohn?label=FOLLOWERS&style=flat-square&color=00c853" alt="Followers"/>
+
+</div>
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 
 ```go
 package main
@@ -22,58 +25,105 @@ import "fmt"
 
 type Developer struct {
 	Name     string
-	Role     string
 	Location string
 	Stack    []string
 	Cloud    []string
-	Building []string
+	Goal     string
+	Mode     string
 }
 
 func main() {
 	me := Developer{
 		Name:     "Pius John",
-		Role:     "Cloud AI Application Developer",
-		Location: "Nigeria 🇳🇬",
-		Stack:    []string{"Go", "Python"},
+		Location: "Lagos, Nigeria",
+		Stack:    []string{"Go", "Python", "Bash", "Linux"},
 		Cloud:    []string{"AWS", "GCP"},
-		Building: []string{
-			"Realtime AI Chatbots",
-			"Image Analysis Systems",
-			"Scalable Cloud Applications",
-		},
+		Goal:     "Cloud/DevOps engineer -> AI & MLOps",
+		Mode:     "Learning in public",
 	}
-	fmt.Printf("Hi there! I'm %s 👋\n", me.Name)
-	fmt.Printf("I build intelligent cloud applications using %v\n", me.Stack)
+	fmt.Printf("%+v\n", me)
 }
 ```
 
+- 🌱 Self-taught developer, started as an absolute beginner through project-based peer learning at **01-edu (learn2earn)**
+- ☁️ Pursuing an entry-level **remote cloud/DevOps** role with US-based teams
+- 🧭 Following a self-directed **two-year roadmap** toward SDE-1 interview readiness
+- 🤖 Long-term: **AI & MLOps**, engineering at the level of the best teams in the industry
+- 🛠️ I learn by building and replicating real-world architectures, not by collecting certificates
+
 ---
 
-## 🤖 Featured Projects
+## 🧭 Currently Working On
+
+- 🔄 **Python**: going from comfortable-with-basics to real depth
+- 🔄 **AWS / GCP**: building real-world architectures hands-on
+- 🔄 **Data structures & algorithms** for interview readiness
+- 🔄 **AI curriculum** (Talent Nation): Python-based AI engineering
+- 📅 **Next**: CI/CD pipelines, Docker, Terraform
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Realtime AI Chatbot</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Groupie Trackers</h3>
+      <p align="center">Go web server that consumes a REST API and renders artist data with handlers and HTML templates.</p>
       <p align="center">
-        A production-ready realtime chatbot powered by AI models deployed on the cloud. Built for scale, speed, and intelligent conversations.
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-00c853?style=flat-square"/>
       </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐜 Lem-in</h3>
+      <p align="center">Ant-colony simulation solving multi-path graph traversal to move ants through a network in the fewest turns.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Graphs-00c853?style=flat-square"/>
+      </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🖧 Deep-in-Net</h3>
+      <p align="center">Networking fundamentals built and documented in Cisco Packet Tracer: 8 exercises plus a bonus.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Networking-00c853?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+      </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐧 Deep-in-System</h3>
+      <p align="center">Hardened Ubuntu server: users, security, FTP, MySQL, WordPress and automated cron backups.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+      </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI Chatbot</h3>
+      <p align="center">Realtime chatbot using a cloud-hosted AI model. Replace with what it truly does today.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-00c853?style=flat-square"/>
       </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🖼️ Image Analysis AI</h3>
-      <p align="center">
-        An intelligent image analysis system leveraging cloud AI services to extract insights, detect objects, and process visual data at scale.
-      </p>
+      <p align="center">Image analysis using cloud AI services. Replace with what it truly does today.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-00c853?style=flat-square"/>
       </p>
+      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
   </tr>
 </table>
@@ -82,88 +132,80 @@ func main() {
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,aws,gcp,git,linux,bash,vscode,github&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML-00c853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=piusjohn&show_icons=true&theme=github_dark&hide_border=true&title_color=00c853&icon_color=00c853&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piusjohn&layout=compact&theme=github_dark&hide_border=true&title_color=00c853&text_color=ffffff&bg_color=0d1117" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=piusjohn&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B,%20Y%5D&ring=00c853&fire=00c853&currStreakLabel=00c853" />
-</p>
+</div>
 
 ---
 
-## 📊 Activity Graph
+## 🗺️ My Roadmap
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piusjohn&theme=github-dark&color=00c853&line=00c853&point=ffffff&hide_border=true"/>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piusjohn&theme=algolia&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-```python
-current_focus = [
-    "Building AI-powered cloud applications with Go & Python",
-    "Deploying scalable services on AWS & GCP",
-    "Integrating LLMs and AI APIs into production systems",
-    "Mastering cloud-native architecture & infrastructure",
-    "Advanced algorithms & data structures",
-    "Software engineering best practices",
-]
-```
+| Phase | Focus | Status |
+|:------|:------|:-------|
+| Foundations | Go, algorithms, networking, Linux administration | ✅ Done |
+| Python & AI | Python depth, Talent Nation AI curriculum | 🔄 In progress |
+| Cloud | AWS & GCP architectures built hands-on | 🔄 In progress |
+| DevOps | Docker, CI/CD, Terraform, monitoring | 📅 Next |
+| Interview Readiness | DSA and system design toward SDE-1 | 📅 Next |
+| AI & MLOps | Deploying and operating ML systems | 🎯 Goal |
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/piusjohn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pius-john-0630272a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pius622472@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piusjohn/piusjohn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piusjohn/piusjohn/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/piusjohn/piusjohn/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 Stats
 
-> I enjoy building AI-powered cloud applications from scratch, understanding how things work at a deep level, and continuously pushing myself to become a better engineer every day. 🔥
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piusjohn&show_icons=true&theme=github_dark&hide_border=true&title_color=00c853&icon_color=00c853&text_color=ffffff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piusjohn&layout=compact&theme=github_dark&hide_border=true&title_color=00c853&text_color=ffffff&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=piusjohn&theme=github-dark-blue&hide_border=true&ring=00c853&fire=00c853&currStreakLabel=00c853" />
+
+</div>
+
+### 🏆 LeetCode
+
+<div align="center">
+<a href="https://leetcode.com/u/PiusJohn/">
+  <img src="https://leetcard.jacoblin.cool/PiusJohn?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" width="100%"/>
+</a>
+</div>
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=120&section=footer"/>
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+
+Open to **entry-level remote cloud/DevOps roles**, and always happy to learn from other developers.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pius-john-0630272a3/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pius622472@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=120&section=footer" width="100%"/>
+
+<sub>*Learning in public, one commit at a time.* 🌱</sub>
+
+</div>
