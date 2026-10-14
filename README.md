@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Cloud%20%26%20AI&descSize=20&descAlignY=58&descColor=a5f3a5" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer&descSize=20&descAlignY=58&descColor=a5f3a5" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;AWS+%26+GCP+%7C+Go+%26+Python;Building+AI+apps+with+Bedrock+and+AgentCore;Open+to+cloud+internships+and+junior+roles+%F0%9F%9A%80" alt="Typing animation"/>
 
