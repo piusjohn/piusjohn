@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AI%20Application%20Developer&descSize=20&descAlignY=58&descColor=a5f3a5" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=240&section=header&text=Pius%20John&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%7C%20Cloud%20%26%20AI&descSize=20&descAlignY=58&descColor=a5f3a5" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=850&lines=Self-taught+developer+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Go+%26+Python+%7C+AWS+%26+GCP;Building+toward+Cloud%2FDevOps+%26+MLOps;Learning+in+public%2C+shipping+in+public+%F0%9F%94%A5" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c853&center=true&vCenter=true&width=850&lines=AWS+Cloud+Engineer+from+Lagos%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;AWS+%26+GCP+%7C+Go+%26+Python;Building+AI+apps+with+Bedrock+and+AgentCore;Open+to+cloud+internships+and+junior+roles+%F0%9F%9A%80" alt="Typing animation"/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-piusjohn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piusjohn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Pius%20John-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pius-john-0630272a3/)
@@ -23,7 +23,7 @@ package main
 
 import "fmt"
 
-type Developer struct {
+type Engineer struct {
 	Name     string
 	Location string
 	Stack    []string
@@ -33,11 +33,11 @@ type Developer struct {
 }
 
 func main() {
-	me := Developer{
+	me := Engineer{
 		Name:     "Pius John",
 		Location: "Lagos, Nigeria",
 		Stack:    []string{"Go", "Python", "Bash", "Linux"},
-		Cloud:    []string{"AWS", "GCP"},
+		Cloud:    []string{"AWS", "GCP", "Docker", "Terraform", "Kubernetes"},
 		Goal:     "Cloud/DevOps engineer -> AI & MLOps",
 		Mode:     "Learning in public",
 	}
@@ -45,21 +45,22 @@ func main() {
 }
 ```
 
-- 🌱 Self-taught developer who started as an absolute beginner through project-based peer learning at **01-edu (learn2earn)**, now on the **Talent Nation AI curriculum**
-- ☁️ Pursuing an entry-level **remote cloud/DevOps** role with US-based teams
+- ☁️ **AWS Cloud Engineer**, member of the **AWS Cloud Institute 2025/2026 cohort** and a **Google Associate Cloud Engineer**
+- 🤖 I build AI apps on AWS with **Amazon Bedrock and AgentCore**
+- 🌱 Self-taught developer who started as an absolute beginner through project-based peer learning at **01-edu (learn2earn)**
+- 🎯 Open to **AWS cloud internships** and **entry-level remote cloud/DevOps roles**
 - 🧭 Following a self-directed **two-year roadmap** toward SDE-1 interview readiness
-- 🤖 Long-term: **AI & MLOps**, with the engineering depth of the best teams in the industry
 - 🛠️ I learn by building and replicating real-world architectures, not by collecting certificates
 
 ---
 
 ## 🧭 Currently Working On
 
-- 🔄 **Python**: a 3-month push from solid basics to real depth, in service of AI & MLOps
 - 🔄 **AWS / GCP**: building real-world architectures hands-on
+- 🔄 **AI apps on AWS**: RAG and agents with Bedrock, AgentCore, LangChain and Milvus
+- 🔄 **DevOps**: Docker, Kubernetes, CI/CD and Terraform
+- 🔄 **Python**: a 3-month push from solid basics to real depth, in service of AI & MLOps
 - 🔄 **Data structures & algorithms**: daily practice on [LeetCode](https://leetcode.com/u/PiusJohn/)
-- 🔄 **Databases**: relational design, keys and SQL
-- 📅 **Next**: Docker, CI/CD, Terraform
 
 ---
 
@@ -68,13 +69,30 @@ func main() {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">💬 Customer Support Bot</h3>
+      <p align="center">Customer support bot built on AWS with Amazon Bedrock, AgentCore, EC2, ECS, Lambda, S3, DynamoDB and API Gateway.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bedrock_AgentCore-00c853?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 RAG Application</h3>
+      <p align="center">Retrieval-augmented generation app using LangChain, Milvus, Kubernetes and Amazon Bedrock AgentCore.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-00c853?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🌐 Groupie Trackers</h3>
       <p align="center">Go web server that consumes a REST API and renders artist data with handlers and HTML templates.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST_API-00c853?style=flat-square"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐜 Lem-in</h3>
@@ -83,7 +101,6 @@ func main() {
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Graphs-00c853?style=flat-square"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
   </tr>
   <tr>
@@ -94,7 +111,6 @@ func main() {
         <img src="https://img.shields.io/badge/Networking-00c853?style=flat-square"/>
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐧 Deep-in-System</h3>
@@ -103,7 +119,6 @@ func main() {
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
   </tr>
   <tr>
@@ -114,7 +129,6 @@ func main() {
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Anthropic_API-00c853?style=flat-square&logo=anthropic&logoColor=white"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎨 ASCII Art Web</h3>
@@ -123,27 +137,6 @@ func main() {
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/net/http-00c853?style=flat-square&logo=go&logoColor=white"/>
       </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Chatbot</h3>
-      <p align="center">Realtime chatbot using a cloud-hosted AI model. Replace with what it truly does today.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-      </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🖼️ Image Analysis AI</h3>
-      <p align="center">Image analysis using cloud AI services. Replace with what it truly does today.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-      </p>
-      <p align="center"><a href="REPO_LINK">View repo →</a></p>
     </td>
   </tr>
 </table>
@@ -154,13 +147,16 @@ func main() {
 
 <div align="center">
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -176,9 +172,9 @@ func main() {
 | Phase | Focus | Status |
 |:------|:------|:-------|
 | Foundations | Go, algorithms, networking (Packet Tracer), Linux server administration | ✅ Done |
-| Python & AI | Python depth, Talent Nation AI curriculum | 🔄 In progress |
-| Cloud | AWS & GCP architectures built hands-on | 🔄 In progress |
-| DevOps | Docker, CI/CD, Terraform, monitoring | 📅 Next |
+| Cloud | AWS & GCP architectures, AI apps with Bedrock and AgentCore | 🔄 In progress |
+| DevOps | Docker, Kubernetes, CI/CD, Terraform, monitoring | 🔄 In progress |
+| Python & AI | Python depth, RAG and agents | 🔄 In progress |
 | Interview Readiness | DSA and system design toward SDE-1 | 📅 Next |
 | AI & MLOps | Deploying and operating ML systems | 🎯 Goal |
 
@@ -221,13 +217,13 @@ func main() {
 
 <div align="center">
 
-Open to **entry-level remote cloud/DevOps roles**, and always happy to learn from other developers.
+Open to **AWS cloud internships** and **entry-level remote cloud/DevOps roles**. Always happy to learn from other developers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pius-john-0630272a3/)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pius622472@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub>*Learning in public, one commit at a time.* 🌱</sub>
+<sub><i>Learning in public, one commit at a time.</i> 🌱</sub>
 
 </div>
